@@ -1,1 +1,1 @@
-<a href="console.neon.tech">click</a>
+[https://console.neon.tech](README.md)
