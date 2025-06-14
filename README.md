@@ -1,1 +1,1 @@
-[https://console.neon.tech](README.md)
+[https://console.neon.tech]
